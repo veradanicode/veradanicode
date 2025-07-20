@@ -54,7 +54,7 @@
 ### 📊 GitHub Stats
 
 <p align="center" style="margin-top: 20px";>
-  <img src="https://github-readme-stats.vercel.app/api?username=veradanicode&show_icons=true&theme=tokyonight" alt="Vera's GitHub Stats"  style="margin-bottom: 20px"; />
+  <img src="https://github-readme-stats.vercel.app/api?username=veradanicode&show_icons=true&theme=tokyonight" alt="Vera's GitHub Stats"  style="margin-bottom: 20px"; width=70% />
 </p>
 <p align="center" style="margin-top: 20px;">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=veradanicode&theme=tokyonight" alt="GitHub Streak" />
