@@ -53,12 +53,12 @@
 
 ### 📊 GitHub Stats
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=veradanicode&show_icons=true&theme=tokyonight" alt="Vera's GitHub Stats"  style="margin-bottom: 20px"; />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=veradanicode&theme=tokyonight" alt="GitHub Streak"style="margin-bottom: 20px"; />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=veradanicode&theme=tokyonight" alt="GitHub Streak"style="margin-top: 20px"; />
 </p>
 
-<p align="left"  style="margin-top: 20px;">
+<p align="center"  style="margin-top: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veradanicode&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
 
