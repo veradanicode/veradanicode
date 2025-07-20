@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8E44AD&center=true&vCenter=true&width=500&lines=Crafting+beautiful+apps+end-to-end.;2%2B+years+in+tech+and+still+curious.;Always+learning%2C+always+building+%F0%9F%94%A5" alt="Typing Animation" />
 </p>
 
----
+
 
 ### 💡 About Me
 
@@ -20,7 +20,7 @@
 - 💌 Reach me at: [veradanicode@gmail.com](mailto:veradanicode@gmail.com)
 - 🎧 I code with music & watch action and sci-fi for fun.
 
----
+
 
 ### 🛠️ Tech Stack
 
@@ -49,20 +49,19 @@
   &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=vscode" height="35" alt="VS Code" style="margin: 0 10px;" />
 </p>
----
+
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=veradanicode&show_icons=true&theme=tokyonight" alt="Vera's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=veradanicode&theme=tokyonight" alt="GitHub Streak" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=veradanicode&show_icons=true&theme=tokyonight" alt="Vera's GitHub Stats" width="48%" style="margin-right: 10px"; />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=veradanicode&theme=tokyonight" alt="GitHub Streak "width="48%"  />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veradanicode&layout=compact&theme=tokyonight" alt="Top Languages" />
+<p align="left"  style="margin-top: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veradanicode&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
 
----
 
 ### 🌐 Connect with Me
 
@@ -82,18 +81,4 @@
 </p>
 
 
----
 
-### 🟢 Availability
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Available-success?style=for-the-badge&logo=vercel&logoColor=white" alt="Open to Work" />
-</p>
-
----
-
-### ✨ Dev Motto
-
-> "From frontend pixels to backend logic — I build it all."
-
----
