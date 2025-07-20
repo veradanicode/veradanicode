@@ -18,7 +18,7 @@
 - 🧠 Currently exploring deeper API integrations and software architecture.
 - 📍 Based in **Lagos, Nigeria**
 - 💌 Reach me at: [veradanicode@gmail.com](mailto:veradanicode@gmail.com)
-- 🎧 I code with music & read fiction for fun.
+- 🎧 I code with music & watch action and sci-fi for fun.
 
 ---
 
@@ -46,22 +46,25 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vera-daniel-4a6942299/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://linkedin.com/in/vera-daniel-4a6942299">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/veradanicode" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/veradanicode">
+    <img src="https://skillicons.dev/icons?i=github" height="30" alt="GitHub" />
   </a>
-  <a href="https://x.com/veradanicode" target="_blank">
-    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X / Twitter"/>
+  <a href="https://x.com/veradanicode">
+    <img src="https://skillicons.dev/icons?i=twitter" height="30" alt="Twitter / X" />
   </a>
 </p>
+
 
 ---
 
 ### 🟢 Availability
 
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Yes-success?style=flat-square&logo=github)](mailto:veradanicode@gmail.com)
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Available-success?style=for-the-badge&logo=vercel&logoColor=white" alt="Open to Work" />
+</p>
 
 ---
 
