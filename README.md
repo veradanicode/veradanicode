@@ -25,9 +25,30 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,python,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html" height="35" alt="HTML" style="margin: 0 10px;" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" height="35" alt="CSS" style="margin: 0 10px;" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" height="35" alt="JavaScript" style="margin: 0 10px;" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" height="35" alt="React" style="margin: 0 10px;" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" height="35" alt="Next.js" style="margin: 0 10px;" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="Node.js" style="margin: 0 10px;" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=express" height="35" alt="Express" style="margin: 0 10px;" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" height="35" alt="MongoDB" style="margin: 0 10px;" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" height="35" alt="Python" style="margin: 0 10px;" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" height="35" alt="Git" style="margin: 0 10px;" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" height="35" alt="GitHub" style="margin: 0 10px;" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" height="35" alt="VS Code" style="margin: 0 10px;" />
 </p>
-
 ---
 
 ### 📊 GitHub Stats
@@ -45,15 +66,18 @@
 
 ### 🌐 Connect with Me
 
+
 <p align="center">
-  <a href="https://linkedin.com/in/vera-daniel-4a6942299">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/vera-daniel-4a6942299" style="margin: 0 10px;">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="35" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/veradanicode">
-    <img src="https://skillicons.dev/icons?i=github" height="30" alt="GitHub" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/veradanicode" style="margin: 0 10px;">
+    <img src="https://skillicons.dev/icons?i=github" height="35" alt="GitHub" />
   </a>
-  <a href="https://x.com/veradanicode">
-    <img src="https://skillicons.dev/icons?i=twitter" height="30" alt="Twitter / X" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/veradanicode" style="margin: 0 10px;">
+    <img src="https://skillicons.dev/icons?i=twitter" height="35" alt="Twitter / X" />
   </a>
 </p>
 
