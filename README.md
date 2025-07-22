@@ -16,7 +16,7 @@
 - ⚛️ I work with **React**, **Next.js**, **Node.js**, **Express**, and **MongoDB**.
 - 🔁 I enjoy building full-scale apps that connect frontend and backend like magic.
 - 🧠 Currently exploring deeper API integrations and software architecture.
-- 📍 Based in **Lagos, Nigeria**
+- 📍 Based in **Lagos, Nigeria**.
 - 💌 Reach me at: [veradanicode@gmail.com](mailto:veradanicode@gmail.com)
 - 🎧 I code with music & watch action and sci-fi for fun.
 
